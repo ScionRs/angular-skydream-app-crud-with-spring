@@ -1,0 +1,54 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+body{
+  background-color: whitesmoke;
+}
+.logo{
+  color: white;
+  font-size: 24px;
+  line-height: 18px;
+  padding: 10px;
+}
+
+.main_menu{
+  background-color: #2860FD;
+}
+
+.main_menu a{
+  color: white;
+  cursor: pointer;
+}
+
+.main_menu span{
+  font-size: 12px;
+}
+ul{
+  list-style: none;
+  color: white;
+}
+ul li{
+  margin: -3px;
+  padding: -3px;
+}
+
+ul li a{
+  height: 24px;
+}
+
+.main_content{
+  background-color: white;
+  border: none;
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+.icon_custom {
+  margin: 20px 0;
+  padding: 0 10px;
+  color: black;
+  font-size: 24px;
+  cursor: pointer;
+}
