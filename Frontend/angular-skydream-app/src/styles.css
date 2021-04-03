@@ -20,6 +20,10 @@ body{
   cursor: pointer;
 }
 
+.message{
+  padding: 10px 0;
+}
+
 .main_menu span{
   font-size: 12px;
 }
